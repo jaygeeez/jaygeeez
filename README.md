@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaygeeez
+- 👋 Hi, I’m Josh.
 - 👀 I’m interested in making/consuming food, making/consuming music. and some sporty stuff.
 - 🌱 I’m currently learning cybersecurity practices.
 - 💞️ I’m looking to collaborate on game dev.
